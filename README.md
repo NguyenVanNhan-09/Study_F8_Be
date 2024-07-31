@@ -6,3 +6,5 @@
 cài đặt expresshandlebars
 => npm install express-handlebars
 ```
+
+## `Static file & SCSS`
